@@ -1,5 +1,5 @@
 # printf()
-The printf project is a collaboration project by **Ayomide Suara** and **Remi Oni**, students of the ALX Software Engineering Programme by Holberton School, in which a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
+The printf project is a collaboration project by HAMBISA ADAMU and Mirian Orjiako, students of the ALX Software Engineering Programme ALX school, in which a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
 
 _printf() is a function that performs formatted output conversion and prints data. Its prototype is the following:
 
@@ -44,9 +44,9 @@ If the program runs successfully, the **return value** is the amount of chars pr
 
 ## Examples
 
-1. Printing the string of chars "Hello, Holberton":
-	+ Use: `_printf("Hello Hol%s.", "berton");`
-	+ Output: `Hello Holberton.`
+1. Printing the string of chars "Hello, main":
+	+ Use: `_printf("Hello alx%s.", "main");`
+	+ Output: `Hello ALX.`
 	
 2. Printing an integer number:
 	+ Use: `_printf("10 + 10 is equal to %d.", 20);`
@@ -58,11 +58,10 @@ If the program runs successfully, the **return value** is the amount of chars pr
 	
 4. Printing a string codified in ROT13:
 	+ Use: `_printf("Hello in ROT13 is %R", "Hello");`
-	+ Output: `Hello in ROT13 is Urybb`
 
 Using flags and length tags:
 
-5. Printing the string of chars "Hello, Holberton":
+5. Printing the string of chars "Hello, Alx":
 	+ Use: `_printf("2 * 2 = %+d and 5 * -5 = %+i", 4, -25);`
 	+ Output: `2 * 2 = +4 and 5 * -5 = -25`
 	
@@ -322,9 +321,9 @@ Function That Returns The Amount Of Indetifiers.
 ------------
 
 ## Authors
-Suara Ayomide <aysuarex@gmail.com>
+hambisa adamu <adamuhambisa@gmail.com>
 
-Oni Remi <oni.jremi@gmail.com>
+Mirian Orjiako <kyrianmirian@gmail.com>
 
 ------------
 
